@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:meghan_bellerose@brown.edu'
+    link: mailto:meghan_bellerose@brown.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MeghanBellerose
