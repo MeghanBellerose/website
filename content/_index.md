@@ -50,9 +50,9 @@ sections:
        folders:
           - publication
         featured_only: true
-    design:
+      design:
        columns: '2'
-      view: card
+        view: card
   - block: collection
     content:
       title: Other Recent Publications  
