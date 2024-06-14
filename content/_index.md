@@ -64,7 +64,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: meghan_bellerose@brown.edu
+      text: "Email: meghan_bellerose@brown.edu"
       contact_links:
         - icon: twitter
           icon_pack: fab
