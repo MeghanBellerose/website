@@ -83,8 +83,8 @@ sections:
           icon_pack: fab
           name: @MeghanBellerose
           link: 'https://twitter.com/Twitter'
-        - icon: twitter
-          icon_pack: fab
+        - icon: envelope
+          icon_pack: fas
           name: meghan_bellerose@brown.edu
           link: mailto:meghan_bellerose@brown.edu
       # Automatically link email and phone or display as text?
