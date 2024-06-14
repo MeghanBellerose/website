@@ -48,7 +48,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication_featured
+          - publication
         featured_only: true
     design:
       columns: '2'
