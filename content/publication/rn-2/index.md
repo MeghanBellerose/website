@@ -9,4 +9,9 @@ publishDate: '2024-06-14T17:40:54.247474Z'
 publication_types:
 - article-journal
 publication: '*Obstetrics & Gynecology*'
+
+tags:
+- Source Themes
+featured: false
+
 ---
