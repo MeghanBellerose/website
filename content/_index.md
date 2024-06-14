@@ -36,7 +36,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: about.biography
+    - block: about.biography
     id: about
     content:
       title: Biography
@@ -45,21 +45,22 @@ sections:
    - block: collection
       id: featured
       content:
-        title: Featured Publications
-         filters:
+       title: Featured Publications
+       filters:
        folders:
           - publication
         featured_only: true
-      design:
+    design:
        columns: '2'
-        view: card
+      view: card
   - block: collection
     content:
-      title: Other Recent Publications  
+      title: Publications  
+      title: Recent Publications  
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
