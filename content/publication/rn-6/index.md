@@ -17,6 +17,6 @@ tags:
 - Source Themes
 featured: true
 
-url: https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2021.01150
+url_pdf: https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2021.01150
 
 ---
