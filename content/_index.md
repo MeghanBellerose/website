@@ -64,7 +64,7 @@ sections:
     id: contact
     content:
       title: Contact
-      text: Email: meghan_bellerose@brown.edu
+      text: "Email: meghan_bellerose@brown.edu"
       items:
         - icon: envelope
           icon_pack: fas
