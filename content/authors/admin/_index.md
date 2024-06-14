@@ -70,5 +70,7 @@ social:
 highlight_name: true
 ---
 
-Meghan Bellerose (she/her) is a PhD candidate in Health Services Research at Brown University. Her research interests include disability and reproductive health and Medicare and Medicaid policy. She is a research assistant in the Center for Advancing Healthcare Through Research (CAHPR).
+Meghan Bellerose (she/her) is a PhD candidate in Health Services Research at Brown University. Her research uses econometric methods to evaluate the impact of Medicaid and Medicare policies on reproductive and pregnancy care use, particularly among people with disabilities. 
+
+interests include disability and reproductive health and Medicare and Medicaid policy. Meghan is a current trainee at Brown’s Population Studies and Training Center and a research assistant at the Center for Advancing Health Policy through Research (CAHPR).
 {style="text-align: justify;"}
