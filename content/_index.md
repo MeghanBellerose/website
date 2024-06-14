@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: ""
 date: 2024-06-14
 type: landing
 
@@ -63,6 +63,7 @@ sections:
 - block: collection
     content:
       title: Contact
+      
     design:
       columns: '2'
   
