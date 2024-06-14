@@ -64,12 +64,8 @@ sections:
     id: contact
     content:
       title: Contact
-      text: "Email: meghan_bellerose@brown.edu"
-      items:
-        - icon: envelope
-          icon_pack: fas
-          link: mailto:meghan_bellerose@brown.edu
-          name: "meghan_bellerose@brown.edu"
+      email: meghan_bellerose@brown.edu
+      contact_links:
         - icon: twitter
           icon_pack: fab
           link: https://x.com/MeghanBellerose
