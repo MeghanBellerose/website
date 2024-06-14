@@ -71,32 +71,5 @@ sections:
     content:
     title: Teaching
     text: 
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      # Contact (add or remove contact options as necessary)
-      contact_links:
-        - icon: envelope
-          icon_pack: fas
-          label: meghan_bellerose@brown.edu
-        - icon: twitter
-          icon_pack: fab
-          link: https://twitter.com/MeghanBellerose
-          label: Follow me on Twitter
-    display:
-      header: true
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+  
 ---
