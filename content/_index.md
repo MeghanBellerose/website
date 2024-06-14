@@ -64,7 +64,7 @@ sections:
     id: contact
     content:
       title: Contact
-      buttons:
+      items:
         - icon: envelope
           icon_pack: fas
           link: mailto:meghan_bellerose@brown.edu
