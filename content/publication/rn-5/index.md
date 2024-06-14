@@ -17,6 +17,6 @@ tags:
 - Source Themes
 featured: true
 
-url_pdf: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2813290
+url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2813290
 
 ---
