@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-06-14
 type: landing
 
 sections:
@@ -67,11 +67,5 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    content:
-    title: Teaching
-    text:
-    design:
-      columns: '2'
   
 ---
