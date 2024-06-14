@@ -77,16 +77,16 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: meghan_bellerose@brown.edu
       contact_links:
-        - icon: twitter
-          icon_pack: fas
-          name: @MeghanBellerose
-          link: 'https://twitter.com/Twitter'
         - icon: envelope
           icon_pack: fas
-          name: meghan_bellerose@brown.edu
           link: mailto:meghan_bellerose@brown.edu
+        - icon: twitter
+          icon_pack: fab
+          link: https://twitter.com/MeghanBellerose
+          label: Follow me on Twitter
+    display:
+      header: true
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
