@@ -70,6 +70,8 @@ sections:
   - block: collection
     content:
     title: Teaching
-    text: 
+    text:
+    design:
+      columns: '2'
   
 ---
