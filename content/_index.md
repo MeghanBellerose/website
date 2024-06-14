@@ -80,7 +80,7 @@ sections:
       email: meghan_bellerose@brown.edu
       contact_links:
         - icon: twitter
-          icon_pack: fab
+          icon_pack: fas
           name: @MeghanBellerose
           link: 'https://twitter.com/Twitter'
         - icon: envelope
