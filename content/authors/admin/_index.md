@@ -42,11 +42,11 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:meghan_bellerose@brown.edu" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:meghan_bellerose@brown.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MeghanBellerose
