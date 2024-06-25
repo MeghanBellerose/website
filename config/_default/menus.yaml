@@ -14,7 +14,7 @@ main:
     url: '#featured'
     weight: 30
   - name: Posters
-    url: uploads/poster.pdf
+    url: '#poster'
     weight: 40
   - name: Contact
     url: '#contact'
