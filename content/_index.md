@@ -70,6 +70,19 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: portfolio
+    id: poster
+    content:
+      title: Posters
+      filters:
+        folders:
+          - poster
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: contact
     id: contact
     content:
