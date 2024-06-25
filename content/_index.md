@@ -63,9 +63,9 @@ sections:
   - block: collection
     content:
       title: Posters
-    filters:
-      folders:
-        - poster
+      filters:
+        folders:
+          - poster
         featured_only: true
     design:
       columns: '2'
