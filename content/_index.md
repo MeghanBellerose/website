@@ -60,6 +60,12 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    content:
+      title: Posters
+    design:
+      columns: '2'
+      view: card
   - block: contact
     id: contact
     content:
