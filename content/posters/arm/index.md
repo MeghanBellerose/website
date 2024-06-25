@@ -4,6 +4,8 @@ date: 2024-07-01
 tags:
   -poster
 
+view: card
+
 image:
   caption: Poster at Academy Health Annual Research Meeting 2024. Baltimore, MD.
   focal_point: Smart
