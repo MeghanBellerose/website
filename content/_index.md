@@ -71,7 +71,7 @@ sections:
       columns: '2'
       view: card
   - block: portfolio
-    id: poster
+    id: posters
     content:
       title: Posters
       filters:
