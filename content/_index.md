@@ -60,16 +60,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: posters
-    content:
-      title: Posters
-      filters:
-        folders:
-          - posters
-    design:
-      columns: '2'
-      view: card
   - block: contact
     id: contact
     content:
