@@ -63,6 +63,9 @@ sections:
   - block: collection
     content:
       title: Posters
+    filters:
+      folders:
+        - poster
     design:
       columns: '2'
       view: card
