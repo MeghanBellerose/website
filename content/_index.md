@@ -61,6 +61,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: posters
     content:
       title: Posters
       filters:
