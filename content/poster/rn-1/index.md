@@ -10,6 +10,8 @@ date: '2024-07-01'
 publication_types:
 - poster
 
+abstract: Poster at Academy Health Annual Research Meeting 2024. Baltimore, MD.
+
 tags:
 - Source Themes
 featured: true
