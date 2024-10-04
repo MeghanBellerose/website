@@ -10,8 +10,6 @@ publication_types:
 - article-journal
 publication: '*Disability and Health Journal*'
 
-tags:
-- Source Themes
 featured: false
 
 ---
