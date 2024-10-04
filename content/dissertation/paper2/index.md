@@ -4,7 +4,7 @@ date: 2024-10-04
 
 ---
 
-Using 2018-2022 all-payer medical claims, I examine two potential drivers of disparities in pregnancy care use between women with and without disabilities and women with disabilities enrolled in Medicare and Medicaid: perinatal care fragmentation, meaning the spread of visits across clinicians and the share of visits provided by each clinician, and out-of-pocket costs.
+Using all-payer medical claims, I examine two potential drivers of disparities in pregnancy care use between women with and without disabilities and women with disabilities enrolled in Medicare and Medicaid: perinatal care fragmentation, meaning the spread of visits across clinicians and the share of visits provided by each clinician, and out-of-pocket costs.
 
   
     
