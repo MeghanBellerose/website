@@ -10,8 +10,6 @@ publication_types:
 - article-journal
 publication: '*Obstetrics & Gynecology*'
 
-tags:
-- Source Themes
 featured: false
 
 ---
