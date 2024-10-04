@@ -1,6 +1,7 @@
 ---
 title: Impact of Medicare's limited contraceptive coverage on contraceptive use among women with disabilities"
 date: 2024-10-04
+
 ---
 
 Medicare provides health insurance to nearly 1.5 million reproductive-aged women with disabilities. Unlike commercial health insurance plans, TRICARE, and Medicaid, which are required to cover all forms of contraception without cost-sharing, Medicare does not cover permanent contraceptives for pregnancy prevention and offers limited coverage of long- and short-acting methods. Individuals who are simultaneously enrolled in Medicare and Medicaid due to a combination of low-income and disability (“dual enrollees”) receive contraceptive coverage through Medicaid. In this paper, I use national 2016-2020 Traditional Medicare (TM), Medicare Advantage (MA), and Medicaid claims to describe differences in contraceptive use between women with disabilities enrolled in TM, MA, Medicaid, dual enrolled with TM, and dual enrolled with MA. I then examine the causal impact of gaining contraceptive coverage through new dual enrollment on contraceptive use among Medicare enrollees with disabilities using a propensity score-weighted staggered-entry difference-in-differences approach. I find that gaining contraceptive coverage through dual enrollment increases overall contraceptive use and use individual short- and long-acting contraceptive methods, suggesting that Medicare’s coverage policies are a barrier to desired contraceptive use.
