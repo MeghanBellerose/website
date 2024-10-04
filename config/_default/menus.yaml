@@ -8,7 +8,7 @@ main:
     url: '#featured'
     weight: 20
   - name: Ongoing Research
-    url: dissertation/
+    url: projects/
     weight: 30
   - name: CV
     url: uploads/resume.pdf    
