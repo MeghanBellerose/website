@@ -25,13 +25,13 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers_new
+    id: current
     content:
-      title: Updated Featured Publications
+      title: Current Research
       filters:
         folders:
           - publication
-        featured_only: true
+        current_only: true
     design:
       view: article-grid
       columns: 2
@@ -46,16 +46,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Other Recent Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
