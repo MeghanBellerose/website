@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: Dissertation
     url: dissertation/
-    weight: 30
-  - name: Featured Publications
-    url: '#featured'
     weight: 20
+  - name: Featured Publications
+    url: publication/
+    weight: 30
   - name: CV
     url: uploads/resume.pdf    
     weight: 40
