@@ -11,8 +11,6 @@ publication_types:
 - article-journal
 publication: '*Health Services Research*'
 
-tags:
-- Source Themes
 featured: false
 
 ---
