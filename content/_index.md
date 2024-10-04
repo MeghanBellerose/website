@@ -10,7 +10,7 @@ sections:
     content:
       title: About me
       username: admin
-    - block: collection
+  - block: collection
     id: featured
     content:
       title: Featured Publications
