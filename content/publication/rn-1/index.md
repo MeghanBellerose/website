@@ -16,8 +16,6 @@ publication_types:
 - article-journal
 publication: '*Health Affairs*'
 
-tags:
-- Source Themes
 featured: false
 
 ---
