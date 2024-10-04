@@ -10,7 +10,7 @@ sections:
     content:
       title: About me
       username: admin
-  - block: markdown
+  - block: about.biography
     id: dissertation
     content:
       title: Dissertation
