@@ -1,5 +1,6 @@
 ---
 title: Perinatal care fragmentation and out-of-pocket pregnancy costs
+date: 2024-10-04
 
 ---
 
