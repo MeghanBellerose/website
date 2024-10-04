@@ -36,7 +36,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
