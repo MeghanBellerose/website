@@ -12,5 +12,6 @@ publication_types:
 publication: '*Health Services Research*'
 
 featured: false
+current: false
 
 ---
