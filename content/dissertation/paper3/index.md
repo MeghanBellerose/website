@@ -1,6 +1,5 @@
 ---
 title: Role of health insurance and healthcare costs in perinatal decision-making and well-being among women with disabilities
-date: 2023-10-26
 
 ---
 
