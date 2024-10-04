@@ -25,17 +25,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: current
-    content:
-      title: Current Research
-      filters:
-        folders:
-          - publication
-        current_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     id: featured
     content:
       title: Featured Publications
