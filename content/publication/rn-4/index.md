@@ -13,8 +13,6 @@ publication_types:
 - article-journal
 publication: '*JAMA*'
 
-tags:
-- Source Themes
 featured: false
 
 ---
