@@ -5,7 +5,7 @@ main:
     url: '#about'
     weight: 10
   - name: Dissertation
-    url: '#dissertation'
+    url: /#dissertation
     weight: 20
   - name: Featured Publications
     url: '#featured'
