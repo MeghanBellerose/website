@@ -7,7 +7,7 @@ main:
   - name: Featured Publications
     url: '#featured'
     weight: 20
-  - name: Dissertation
+  - name: Ongoing Research
     url: dissertation/
     weight: 30
   - name: CV
