@@ -1,5 +1,3 @@
----
----
 
 My dissertation examines the impact of health insurance coverage policies on reproductive and pregnancy care use among women with disabilities in the United States. This work is funded by an F31 Ruth L. Kirschstein Predoctoral Individual National Research Award from the Eunice Kennedy Shriver National Institute of Child Health & Human Development (NICHD).
 
@@ -9,3 +7,4 @@ In **Chapter 2**, I examine two potential drivers of disparities in pregnancy ca
 
 In **Chapter 3**, I use qualitative, in-depth interviews to understand the role of health insurance and healthcare costs in perinatal decision-making and well-being among women with disabilities. My research questions are: 1) How do women with disabilities in the United States navigate decisions regarding health insurance and healthcare costs before, during, and after pregnancy? and 2) In what ways do health insurance policies facilitate or restrict use of desired perinatal care by women with disabilities?
 
+{style="text-align: right;"}
