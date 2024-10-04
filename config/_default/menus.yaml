@@ -11,7 +11,7 @@ main:
     url: dissertation/
     weight: 20
   - name: Featured Publications
-    url: featured/
+    url: publication/
     weight: 30
   - name: CV
     url: uploads/resume.pdf    
