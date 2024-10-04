@@ -39,6 +39,11 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: about.biography
+    id: dissertation
+    content:
+      title: Dissertation
+      username: dissertation
   - block: collection
     id: featured
     content:
